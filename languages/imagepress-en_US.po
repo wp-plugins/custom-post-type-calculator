@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Calculator\n"
+"POT-Creation-Date: 2014-03-24 14:05-0000\n"
+"PO-Revision-Date: 2014-03-24 14:09-0000\n"
+"Last-Translator: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language-Team: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cpt-calculator.php:63 ../cpt-calculator.php:64
+msgid "New calculation received!"
+msgstr ""
+
+#: ../cpt-calculator.php:71
+msgid "Item calculation submitted!"
+msgstr ""
+
+#: ../cpt-calculator.php:122
+msgid "Name"
+msgstr ""
+
+#: ../cpt-calculator.php:123
+msgid "Email Address"
+msgstr ""
+
+#: ../cpt-calculator.php:126
+msgid "Notes"
+msgstr ""
+
+#: ../cpt-calculator.php:152 ../cpt-calculator.php:154
+msgid "Add New Item"
+msgstr ""
+
+#: ../cpt-calculator.php:153
+msgid "Edit Item"
+msgstr ""
+
+#: ../cpt-calculator.php:155
+msgid "View Items"
+msgstr ""
+
+#: ../cpt-calculator.php:156
+msgid "View Item"
+msgstr ""
+
+#: ../cpt-calculator.php:157
+msgid "Search Items"
+msgstr ""
+
+#: ../cpt-calculator.php:158
+msgid "No items found"
+msgstr ""
+
+#: ../cpt-calculator.php:159
+msgid "No items found in trash"
+msgstr ""
+
+#: ../cpt-calculator.php:161
+msgid "CPT Calculator"
+msgstr ""
+
+#: ../cpt-calculator.php:183
+msgid "Search Item Categories"
+msgstr ""
+
+#: ../cpt-calculator.php:184
+msgid "All Item Categories"
+msgstr ""
+
+#: ../cpt-calculator.php:185
+msgid "Parent Item Category"
+msgstr ""
+
+#: ../cpt-calculator.php:186
+msgid "Parent Item Category:"
+msgstr ""
+
+#: ../cpt-calculator.php:187
+msgid "Edit Item Category"
+msgstr ""
+
+#: ../cpt-calculator.php:188
+msgid "Update Item Category"
+msgstr ""
+
+#: ../cpt-calculator.php:189
+msgid "Add New Item Category"
+msgstr ""
+
+#: ../cpt-calculator.php:190
+msgid "New Item Name"
+msgstr ""
+
+#: ../cpt-calculator.php:191
+msgid "Item Categories"
+msgstr ""
+
+#: ../includes/page-settings.php:14
+msgid "Dashboard"
+msgstr ""
+
+#: ../includes/page-settings.php:15
+msgid "Settings"
+msgstr ""
+
+#: ../includes/page-settings.php:67
+msgid "Submission and Display Settings"
+msgstr ""
